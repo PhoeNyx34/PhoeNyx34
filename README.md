@@ -7,9 +7,9 @@ Web Developer and A11y Enthusiast
 I recently graduated from Launch Academy in Boston after switching careers from scientific journal production and publication. I've always been passionate about coding, focusing on electronic publication development for my masters, and now I'm excited to return my focus to a coding-heavy world.
 
 *   🌍  I'm based in Manchester, NH
-*   🚀  I'm currently working on [Holocron](http://holocron-catalog-602bc8c82273.herokuapp.com/)
+*   🚀  I'm currently working on [Holocron](http://holocron-catalog-602bc8c82273.herokuapp.com/), a Star Wars media catalog that lets users track progress through canon and EU  
 *   🧠  I'm learning JavaScript, React, SQL
-*   ⚡  I love talking about Star Wars and RPG video games
+*   ⚡  I love talking about Star Wars, RPG video games, and accessibility
 
 <a href="https://www.github.com/PhoeNyx34" target="_blank" rel="noreferrer"><img src="https://img.shields.io/github/followers/PhoeNyx34?logo=github&style=for-the-badge&color=0891b2&labelColor=1c1917" /></a>
 
